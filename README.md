@@ -5,5 +5,6 @@
 ### Prerequisites:
 
 * Linux, MacOS, WSL
+* Make
 * Funct
 * PHP Command Line Tools
