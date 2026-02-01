@@ -13,5 +13,7 @@
             "email": "ievgesha@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "funct/funct": "^1.6"
+    }
 }
