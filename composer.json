@@ -1,0 +1,17 @@
+{
+    "name": "evgesha/php-testing",
+    "description": "Testing all my experiments",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Evgesha\\PhpTesting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evgenii Ivanov",
+            "email": "ievgesha@mail.ru"
+        }
+    ],
+    "require": {}
+}
