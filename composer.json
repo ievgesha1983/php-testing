@@ -8,10 +8,12 @@
             "Php\\Testing\\": "src/"
         },
         "files": [
+            "src/RunCode.php",
             "src/Functions/Strings.php"
         ]
     },
     "bin": [
+        "bin/run-code",
         "bin/strings"
     ],
     "authors": [

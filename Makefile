@@ -17,3 +17,8 @@ lint:
 
 strings:
 	./bin/strings
+
+# тестируем любой код (добавить в функцию run - RunCode.php
+
+run-code:
+	./bin/run-code
