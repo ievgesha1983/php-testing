@@ -2,6 +2,7 @@
     "name": "evgesha/php-testing",
     "description": "Testing all my experiments",
     "type": "project",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Php\\Testing\\": "src/"
