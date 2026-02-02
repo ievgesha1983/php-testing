@@ -11,7 +11,7 @@ validate:
 # проверка проекта PHP Codesniffer
 
 lint:
-	exec --verbose phpcs -- -standard=PSR12 src bin
+	composer exec --verbose phpcs -- --standard=PSR12 src bin
 
 # тестируем обработку строк
 
