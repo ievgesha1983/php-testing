@@ -6,8 +6,14 @@
     "autoload": {
         "psr-4": {
             "Php\\Testing\\": "src/"
-        }
+        },
+        "files": [
+            "src/Functions/Strings.php"
+        ]
     },
+    "bin": [
+        "bin/strings"
+    ],
     "authors": [
         {
             "name": "Evgenii Ivanov",

@@ -12,3 +12,8 @@ validate:
 
 lint:
 	exec --verbose phpcs -- -standard=PSR12 src bin
+
+# тестируем обработку строк
+
+strings:
+	./bin/strings
